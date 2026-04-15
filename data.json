@@ -1,0 +1,1751 @@
+{
+  "version": "1.0",
+  "generated": "2026-04-15",
+  "topics": {
+    "UML": "UML diagrami",
+    "IS_baze": "Informacijski sistemi in baze podatkov",
+    "IS_teorija": "Teorija IS"
+  },
+  "problems": [
+    {
+      "id": "2004_jes_pola2_p3",
+      "year": 2004,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 15,
+      "image": "images/problems/2004_jes_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "M042-781-1-2 7 SKLOP INFORMATIKA STRUKTURIRANE NALOGE 15. Na diagramih toka podatkov imamo atomarni proces Določitev_dnevnega_limita, za katerega izdelajte minispecifikacije z odločitveno tabelo.",
+      "solution_images": [
+        "images/solutions/pg_2004_jes_20.jpg",
+        "images/solutions/pg_2004_jes_21.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2004_jes_pola2_p4",
+      "year": 2004,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 3,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": null,
+      "image": "images/problems/2004_jes_pola2_p4.png",
+      "solution_image": null,
+      "text_preview": "8 M042-781-1-2 Napišite izraz SQL, ki izpiše število zmag po državah (zmagovalec tekme dobi 100 točk). (3 točke) Rešitev:",
+      "solution_images": [],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2004_spr_pola2_p1",
+      "year": 2004,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 0,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 9,
+      "image": "images/problems/2004_spr_pola2_p1.png",
+      "solution_image": null,
+      "text_preview": "M041-781-1-2 5 7. Sistem številčenja procesov v diagramih toka podatkov omogoča, da (2 točki) A ugotovimo globino posameznega procesa oziroma identificiramo diagram, na katerem je proces; B u",
+      "solution_images": [
+        "images/solutions/pg_2004_spr_17.jpg",
+        "images/solutions/pg_2004_spr_18.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2004_spr_pola2_p2",
+      "year": 2004,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 10,
+      "image": "images/problems/2004_spr_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "6 M041-781-1-2 10. Katero rezervirano besedo jezika SQL bi uporabili v ukazu, s katerim bi želeli spremeniti strukturo (ne podatkov!) tabele? (2 točki) A ALTER B INSERT C SELECT D UPDATE",
+      "solution_images": [
+        "images/solutions/pg_2004_spr_18.jpg",
+        "images/solutions/pg_2004_spr_19.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2004_spr_pola2_p4",
+      "year": 2004,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 3,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 15,
+      "image": "images/problems/2004_spr_pola2_p4.png",
+      "solution_image": null,
+      "text_preview": "8 M041-781-1-2 SKLOP INFORMATIKA KOMPLEKSNE NALOGE 15. Z notacijo podatkovnega slovarja opišite podatkovni tok Račun. Uporabite vse konstrukte podatkovnega slovarja. Naslov prejemnika računa",
+      "solution_images": [
+        "images/solutions/pg_2004_spr_20.jpg",
+        "images/solutions/pg_2004_spr_21.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2004_spr_pola2_p5",
+      "year": 2004,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 4,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": null,
+      "image": "images/problems/2004_spr_pola2_p5.png",
+      "solution_image": null,
+      "text_preview": "M041-781-1-2 9 Napišite stavek SQL, ki izpiše šifre, priimke, imena in povprečne ocene dijakov (upoštevajte ocene pri vseh predmetih in ne za vsak predmet posebej). (3 točke)",
+      "solution_images": [],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2005_jes_pola2_p1",
+      "year": 2005,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 0,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 9,
+      "image": "images/problems/2005_jes_pola2_p1.png",
+      "solution_image": null,
+      "text_preview": "M052-781-1-2 5 8. Programsko orodje, ki omogoča ustvarjanje, vzdrževanje podatkovne baze in dostop do podatkov, je: (2 točki) A orodje za računalniško podprto programsko inženirstvo (CASE); B",
+      "solution_images": [
+        "images/solutions/pg_2005_jes_16.jpg",
+        "images/solutions/pg_2005_jes_17.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2005_jes_pola2_p3",
+      "year": 2005,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 15,
+      "image": "images/problems/2005_jes_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "M052-781-1-2 7 15. Podatkovno bazo sestavljajo tabele: Proizvajalec (Sifra_proizvajalca, Ime_proizvajalca, Naslov_proizvajalca, Kraj_proizvajalca) Proizvaja (Sifra_proizvajalca, Sifra_izdelka) I",
+      "solution_images": [
+        "images/solutions/pg_2005_jes_14.jpg",
+        "images/solutions/pg_2005_jes_15.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2005_jes_pola2_p4",
+      "year": 2005,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 3,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2005_jes_pola2_p4.png",
+      "solution_image": null,
+      "text_preview": "8 M052-781-1-2 16. Narišite entitetno-relacijski diagram za beleženje tehničnih pregledov vozil. Za vsako vozilo beležimo: številko motorja, številko šasije, znamko vozila in registrsko oznako. T",
+      "solution_images": [
+        "images/solutions/pg_2005_jes_15.jpg",
+        "images/solutions/pg_2005_jes_16.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2005_spr_pola2_p1",
+      "year": 2005,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 0,
+      "topics": [
+        "IS_baze",
+        "IS_teorija"
+      ],
+      "problem_num": 9,
+      "image": "images/problems/2005_spr_pola2_p1.png",
+      "solution_image": null,
+      "text_preview": "M051-781-1-2 5 8. Na kontekstnem nivoju diagrama toka podatkov se pojavljajo: (2 točki) A samo glavni proces in zunanje entitete; B samo glavni proces in glavna zbirka podatkov; C glavni pro",
+      "solution_images": [
+        "images/solutions/pg_2005_spr_20.jpg",
+        "images/solutions/pg_2005_spr_21.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2005_spr_pola2_p3",
+      "year": 2005,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 15,
+      "image": "images/problems/2005_spr_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "M051-781-1-2 7 15. Dani sta tabeli: Student Izpit Sifra ime priimek letnik Sifra predmet datum ocena 100 Jure Novak 2 100 MAT 13.1.02 9 200 Jan Novak 1 100",
+      "solution_images": [
+        "images/solutions/pg_2005_spr_22.jpg",
+        "images/solutions/pg_2005_spr_23.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2006_jes_pola2_p1",
+      "year": 2006,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 0,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 9,
+      "image": "images/problems/2006_jes_pola2_p1.png",
+      "solution_image": null,
+      "text_preview": "M062-781-1-2 5 8. Za razvoj IS so odgovorni: (2 točki) A samo informatiki, B samo programerji, C samo sistemski analitiki, D samo uporabniki IS, E samo vodilni delavci, F vsi navedeni",
+      "solution_images": [
+        "images/solutions/pg_2006_jes_18.jpg",
+        "images/solutions/pg_2006_jes_19.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2006_jes_pola2_p3",
+      "year": 2006,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 15,
+      "image": "images/problems/2006_jes_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "M062-781-1-2 7 15. Podatkovna baza je sestavljena iz naslednjih tabel: Oddelek (Sifra_oddelka,Ime_oddelka) Usluzbenec (Sifra_usluzbenca,Priimek,Ime,Placa,Sifra_oddelka) Projekt(Sifra_projekta,Ime",
+      "solution_images": [
+        "images/solutions/pg_2006_jes_20.jpg",
+        "images/solutions/pg_2006_jes_21.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2006_jes_pola2_p4",
+      "year": 2006,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 3,
+      "topics": [
+        "IS_baze",
+        "IS_teorija"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2006_jes_pola2_p4.png",
+      "solution_image": null,
+      "text_preview": "8 M062-781-1-2 16. Podan je kontekstni diagram za spletni informacijski sistem, ki bo omogočal obdelavo prijav za vpis na univerzo. Sistem bodo lahko uporabljali dijaki, vpisna služba na univerzi",
+      "solution_images": [
+        "images/solutions/pg_2006_jes_21.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2006_spr_pola2_p1",
+      "year": 2006,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 0,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 9,
+      "image": "images/problems/2006_spr_pola2_p1.png",
+      "solution_image": null,
+      "text_preview": "M061-781-1-2 5 8. Kateri od navedenih uporabnikov podatkovne baze je odgovoren za spreminjanje njene strukture: (2 točki) A sistemski analitik; B sistemski programer; C aplikacijski progra",
+      "solution_images": [
+        "images/solutions/pg_2006_spr_16.jpg",
+        "images/solutions/pg_2006_spr_17.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2006_spr_pola2_p2",
+      "year": 2006,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 11,
+      "image": "images/problems/2006_spr_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "6 M061-781-1-2 11. Podjetje Poliglot izvaja tečaje tujih jezikov. Za vsak jezik je razpisanih več tečajev, na vsak tečaj se lahko prijavi več tečajnikov. Isti tečajnik lahko obiskuje več tečajev",
+      "solution_images": [
+        "images/solutions/pg_2006_spr_17.jpg",
+        "images/solutions/pg_2006_spr_18.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2006_spr_pola2_p3",
+      "year": 2006,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 14,
+      "image": "images/problems/2006_spr_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "M061-781-1-2 7 14. Navedite vsaj tri prednosti uporabe računalniško podprtih informacijskih sistemov: (2 točki) Odgovor: 15. Podatkovno bazo sestavljajo naslednje tabele: Krozek(Kroze",
+      "solution_images": [
+        "images/solutions/pg_2006_spr_18.jpg",
+        "images/solutions/pg_2006_spr_19.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2007_jes_pola2_p1",
+      "year": 2007,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 0,
+      "topics": [
+        "IS_baze",
+        "IS_teorija"
+      ],
+      "problem_num": 9,
+      "image": "images/problems/2007_jes_pola2_p1.png",
+      "solution_image": null,
+      "text_preview": "M072-781-1-2 5 8. V prvi fazi razvoja novega informacijskega sistema: (2 točki) A ovrednotimo načrt bodočega sistema; B izdelamo načrt bodočega sistema; C izberemo potrebno razvojno programs",
+      "solution_images": [
+        "images/solutions/pg_2007_jes_19.jpg",
+        "images/solutions/pg_2007_jes_20.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2007_jes_pola2_p3",
+      "year": 2007,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 13,
+      "image": "images/problems/2007_jes_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "M072-781-1-2 7 13. Navedite vsaj dva načina, s katerima se preprečuje nedovoljeni dostop do podatkov. (2 točki) Rešitev: 14. Kateri stavki SQL sodijo v skupino stavkov SQL DML (Data Man",
+      "solution_images": [
+        "images/solutions/pg_2007_jes_21.jpg",
+        "images/solutions/pg_2007_jes_22.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2007_jes_pola2_p4",
+      "year": 2007,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 3,
+      "topics": [
+        "IS_baze",
+        "IS_teorija"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2007_jes_pola2_p4.png",
+      "solution_image": null,
+      "text_preview": "8 M072-781-1-2 16. Izdelati želimo informacijski sistem za podjetje XYZ, ki izvaja tečaje tujih jezikov. Sistem bodo uporabljali naslednji uporabniki: organizator tečajev, tečajnik in predavatel",
+      "solution_images": [
+        "images/solutions/pg_2007_jes_22.jpg",
+        "images/solutions/pg_2007_jes_23.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2007_spr_pola2_p1",
+      "year": 2007,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 0,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 9,
+      "image": "images/problems/2007_spr_pola2_p1.png",
+      "solution_image": null,
+      "text_preview": "M071-781-1-2 5 9. Kateri gradnik NI del modela entitete-razmerja (ER)? (2 točki) A Entiteta. B Povezava. C Objekt. D Atribut. E Kardinalnost. 10. Kateri element diagrama toka podatk",
+      "solution_images": [
+        "images/solutions/pg_2007_spr_20.jpg",
+        "images/solutions/pg_2007_spr_21.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2007_spr_pola2_p2",
+      "year": 2007,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 13,
+      "image": "images/problems/2007_spr_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "6 M071-781-1-2 13. Podatkovno bazo sestavljajo naslednje tabele: Dobavitelj (DobaviteljID:N, ImeDob:A20, Naslovo:A50) Izdelek(IzdelekID:N, ImeIzdelka:A10, Barvao:A10) Katalog(DobaviteljIDÆDobav",
+      "solution_images": [
+        "images/solutions/pg_2007_spr_21.jpg",
+        "images/solutions/pg_2007_spr_22.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2007_spr_pola2_p3",
+      "year": 2007,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2007_spr_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "M071-781-1-2 7 b) Zapišite SQL stavek, ki vrne imena oddelkov iz Ljubljane, ki imajo več kakor deset zaposlenih računalniških tehnikov (računalniški tehnik je poklic). (2 točki) Rešitev:",
+      "solution_images": [
+        "images/solutions/pg_2007_spr_19.jpg",
+        "images/solutions/pg_2007_spr_20.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2008_jes_pola2_p1",
+      "year": 2008,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 0,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 9,
+      "image": "images/problems/2008_jes_pola2_p1.png",
+      "solution_image": null,
+      "text_preview": "M082-781-1-2 5 8. Pri kateri datotečni organizaciji so zapisi znotraj datoteke urejeni po naraščajoči oz. padajoči vrednosti ključa? (2 točki) A Neurejeni. B Naključni. C Linearni. D Razp",
+      "solution_images": [
+        "images/solutions/pg_2008_jes_14.jpg",
+        "images/solutions/pg_2008_jes_15.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2008_jes_pola2_p3",
+      "year": 2008,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 15,
+      "image": "images/problems/2008_jes_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "M082-781-1-2 7 15. Narišite diagram ER, ki bo prikazoval konceptualni model podatkovne baze, v kateri bomo hranili podatke o izpitih študentov. Vsak študent ima svojo šifro, priimek in ime. Študent",
+      "solution_images": [
+        "images/solutions/pg_2008_jes_14.jpg",
+        "images/solutions/pg_2008_jes_15.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2008_jes_pola2_p4",
+      "year": 2008,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 3,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2008_jes_pola2_p4.png",
+      "solution_image": null,
+      "text_preview": "8 M082-781-1-2 16. Podatkovno bazo, v kateri avtošola 'Samokolnica' hrani podatke o vozilih, kandidatih in učnih urah, sestavljajo naslednje tabele: Vozilo (VoziloID, Znamka, Model, Letnik) Str",
+      "solution_images": [
+        "images/solutions/pg_2008_jes_15.jpg",
+        "images/solutions/pg_2008_jes_16.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2008_spr_pola2_p4",
+      "year": 2008,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 3,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 15,
+      "image": "images/problems/2008_spr_pola2_p4.png",
+      "solution_image": null,
+      "text_preview": "8 M081B-781-1-2 15. Podatkovna baza je sestavljena iz tabel, ki jih opisujejo naslednje sheme: Vozilo (VoziloID, Znamka, Model, Letnik) Stranka(StrankaID, Priimek, Ime, DatumRojstva, Email, Tele",
+      "solution_images": [
+        "images/solutions/pg_2008_spr_14.jpg",
+        "images/solutions/pg_2008_spr_15.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2009_jes_pola2_p1",
+      "year": 2009,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 0,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 9,
+      "image": "images/problems/2009_jes_pola2_p1.png",
+      "solution_image": null,
+      "text_preview": "M092-781-1-2 5 8. Katera od navedenih dostopnih funkcij SUPB (sistema za upravljanje podatkovnih baz) je namenjena izključno skrbniku podatkovne baze (administratorju)? (Vsi pravilni odgovori 2 t",
+      "solution_images": [
+        "images/solutions/pg_2009_jes_15.jpg",
+        "images/solutions/pg_2009_jes_16.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2009_jes_pola2_p5",
+      "year": 2009,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 4,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2009_jes_pola2_p5.png",
+      "solution_image": null,
+      "text_preview": "M092-781-1-2 9 16. Podatkovno bazo sestavljajo tabele: Proizvajalec (Šifra_proizvajalca:N, Ime_proizvajalca:A20, Naslov_proizvajalca:A30, Kraj_proizvajalca:A20) Proizvaja (Šifra_proizvajalca:NÆP",
+      "solution_images": [
+        "images/solutions/pg_2009_jes_15.jpg",
+        "images/solutions/pg_2009_jes_16.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2009_spr_pola2_p3",
+      "year": 2009,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze",
+        "IS_teorija"
+      ],
+      "problem_num": 14,
+      "image": "images/problems/2009_spr_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "M091-781-1-2 7 14. Katere tehnike oziroma predstavitve lahko uporabimo za opis elementarnih procesov? (2 točki) Rešitev: 15. Narišite diagram entitete-razmerja (ER) za preprost zdra",
+      "solution_images": [
+        "images/solutions/pg_2009_spr_13.jpg",
+        "images/solutions/pg_2009_spr_14.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2009_spr_pola2_p4",
+      "year": 2009,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 3,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2009_spr_pola2_p4.png",
+      "solution_image": null,
+      "text_preview": "8 M091-781-1-2 16. Relacijsko podatkovno bazo sestavljata relaciji: Delavec in Oddelek. Shemi relacij sta: Delavec(DelavecID, Priimek, Ime, OddelekIDÆOddelek, Poklic, Naslov, Kraj, Izobrazba,",
+      "solution_images": [
+        "images/solutions/pg_2009_spr_15.jpg",
+        "images/solutions/pg_2009_spr_16.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2010_jes_pola2_p2",
+      "year": 2010,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 10,
+      "image": "images/problems/2010_jes_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "6 M102-781-1-2 10. Pri katerih atributih odločitvenega modela določimo funkcijo koristnosti? (2 točki) A Funkcijo koristnosti določimo samo pri elementarnih atributih. B Funkcijo koristnosti",
+      "solution_images": [
+        "images/solutions/pg_2010_jes_14.jpg",
+        "images/solutions/pg_2010_jes_15.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2010_jes_pola2_p4",
+      "year": 2010,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 3,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 15,
+      "image": "images/problems/2010_jes_pola2_p4.png",
+      "solution_image": null,
+      "text_preview": "8 M102-781-1-2 15. Dane so relacijske sheme in ustrezne tabele: Dijak(DijakID:A, Priimek:A, Ime:A, Razred:A, Sola:A, Kraj_sole:A) Tekmovanje(TekmovanjeID:A, Ime:A, Leto:N, Predmet:A) Rezultat",
+      "solution_images": [
+        "images/solutions/pg_2010_jes_14.jpg",
+        "images/solutions/pg_2010_jes_15.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2010_spr_pola2_p2",
+      "year": 2010,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 10,
+      "image": "images/problems/2010_spr_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "6 M101-781-1-2 10. Tabela prva ima 10 vrstic (zapisov) in tabela druga ima 300 vrstic. Koliko vrstic (zapisov) bo imel rezultat izvedbe naslednjega stavka SELECT? SELECT * FROM prva, druga; (2",
+      "solution_images": [
+        "images/solutions/pg_2010_spr_15.jpg",
+        "images/solutions/pg_2010_spr_16.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2010_spr_pola2_p3",
+      "year": 2010,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze",
+        "IS_teorija"
+      ],
+      "problem_num": 14,
+      "image": "images/problems/2010_spr_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "M101-781-1-2 7 14. V katero vrsto informacijskih sistemov spada program Kam in kako, ki pomaga pri izbiri fakultete? (2 točki) ____________________________________________________________________",
+      "solution_images": [
+        "images/solutions/pg_2010_spr_13.jpg",
+        "images/solutions/pg_2010_spr_14.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2010_spr_pola2_p5",
+      "year": 2010,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 4,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2010_spr_pola2_p5.png",
+      "solution_image": null,
+      "text_preview": "M101-781-1-2 9 16. Podatkovno bazo maturitetnih izpitov sestavljajo naslednje tabele: • Predmet(SifraPredmeta, ImePredmeta) • MaturitetnaPola(PolaID, SifraPredmetaÆPredmet, Leto, IzpitniRok, Ni",
+      "solution_images": [
+        "images/solutions/pg_2010_spr_15.jpg",
+        "images/solutions/pg_2010_spr_16.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2011_jes_pola2_p1",
+      "year": 2011,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 0,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 9,
+      "image": "images/problems/2011_jes_pola2_p1.png",
+      "solution_image": null,
+      "text_preview": "6 M112-781-1-2 9. Bankomati delajo na osnovi: (2 točki) A ekspertnih sistemov; B sistemov za podporo odločanju; C menedžerskih informacijskih sistemov; D sistemov za avtomatizacijo pisar",
+      "solution_images": [
+        "images/solutions/pg_2011_jes_16.jpg",
+        "images/solutions/pg_2011_jes_17.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2011_jes_pola2_p2",
+      "year": 2011,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 12,
+      "image": "images/problems/2011_jes_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "M112-781-1-2 7 12. Za vsak element diagrama toka podatkov narišite ustrezni simbol: (2 točki) Simbol Proces Terminator oz. zunanja entiteta Tok podatkov",
+      "solution_images": [
+        "images/solutions/pg_2011_jes_16.jpg",
+        "images/solutions/pg_2011_jes_17.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2011_jes_pola2_p4",
+      "year": 2011,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 3,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2011_jes_pola2_p4.png",
+      "solution_image": null,
+      "text_preview": "M112-781-1-2 9 16. Relacijsko podatkovno bazo, v kateri hranimo podatke o uporabi spletnih portalov, sestavljajo relacije: • Oseba(OsebaID,Priimek,Ime) • KategorijaP(KategorijaID, ImeKategorije,",
+      "solution_images": [
+        "images/solutions/pg_2011_jes_15.jpg",
+        "images/solutions/pg_2011_jes_16.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2011_spr_pola2_p5",
+      "year": 2011,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 4,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2011_spr_pola2_p5.png",
+      "solution_image": null,
+      "text_preview": "M111-781-1-2 9 16. Podatkovno bazo sestavljajo relacije, opisane z naslednjimi relacijskimi shemami: Drzava(DrzavaID,ImeDrzave) Proizvajalec(ProizvajalecID,ImeProizvajalca,DrzavaIDÆDrzava) Prog",
+      "solution_images": [
+        "images/solutions/pg_2011_spr_15.jpg",
+        "images/solutions/pg_2011_spr_16.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2012_jes_pola2_p2",
+      "year": 2012,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 13,
+      "image": "images/problems/2012_jes_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "6 M122-781-1-2 13. Katera trditev pravilno opisuje razmerje med podatkom in informacijo? A Na podlagi podatka ne moremo pridobiti nobene informacije. B Na podlagi podatka lahko pridobimo najve",
+      "solution_images": [
+        "images/solutions/pg_2012_jes_6.jpg",
+        "images/solutions/pg_2012_jes_7.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2012_spr_pola2_p3",
+      "year": 2012,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 14,
+      "image": "images/problems/2012_spr_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "M121-781-1-2 7 14. Za opisovanje podatkovnih tokov na diagramih tokov podatkov uporabljamo: A diagrame poteka. B diagrame ER. C podatkovne slovarje. D stavke SQL DDL. E minispecifikacije.",
+      "solution_images": [
+        "images/solutions/pg_2012_spr_7.jpg",
+        "images/solutions/pg_2012_spr_8.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2013_jes_pola2_p2",
+      "year": 2013,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 12,
+      "image": "images/problems/2013_jes_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "6 M132-781-1-2 12. Na stikalo imamo priključen računalnik, ki ima nastavljeni naslov IP 192.168.0.2 in masko 255.255.255.0. Kateri naslov IP lahko dodelimo novemu računalniku, ki mora biti v isti",
+      "solution_images": [
+        "images/solutions/pg_2013_jes_7.jpg",
+        "images/solutions/pg_2013_jes_8.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2013_jes_pola2_p3",
+      "year": 2013,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2013_jes_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "M132-781-1-2 7 16. Naštejte vse gradnike diagrama toka podatkov na kontekstnem nivoju oziroma nivoju 0. _____________________________________________________________________________________ ____",
+      "solution_images": [
+        "images/solutions/pg_2013_jes_7.jpg",
+        "images/solutions/pg_2013_jes_8.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2013_spr_pola2_p2",
+      "year": 2013,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 13,
+      "image": "images/problems/2013_spr_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "6 M131-781-1-2 13. Katere trditve so pravilne za dani diagram ER podatkovne baze? (Več pravilnih trditev.) A Vsakemu vozilu je dodeljeno natanko eno parkirno mesto. B Vsakemu parkirnemu me",
+      "solution_images": [
+        "images/solutions/pg_2013_spr_6.jpg",
+        "images/solutions/pg_2013_spr_7.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2014_jes_pola2_p2",
+      "year": 2014,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 10,
+      "image": "images/problems/2014_jes_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "*M1427811205* 5/12 V sivo polje ne pišite. 10. Katera dva protokola spadata na transportno plast modela TCP/IP? A FTP (File transfer protocol). B TCP (Transmission Control Protocol). C",
+      "solution_images": [
+        "images/solutions/pg_2014_jes_6.jpg",
+        "images/solutions/pg_2014_jes_7.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2014_jes_pola2_p3",
+      "year": 2014,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 15,
+      "image": "images/problems/2014_jes_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "6/12 *M1427811206* V sivo polje ne pištie. 15. Tabela Ponudba je ustvarjena s stavkom CREATE TABLE Ponudba(PonudbaID int not null primary key, Vsebina varchar(10) not null, Opis varchar(200)",
+      "solution_images": [
+        "images/solutions/pg_2014_jes_6.jpg",
+        "images/solutions/pg_2014_jes_7.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2014_spr_pola2_p2",
+      "year": 2014,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 12,
+      "image": "images/problems/2014_spr_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "6/12 *M1417811206* V sivo polje ne pištie. 12. Povežite protokole aplikacijske plasti s pripadajočimi številkami vrat (portov). http 23 FTP 110 telnet 20, 21 POP3 80 (3 točke) 13",
+      "solution_images": [
+        "images/solutions/pg_2014_spr_7.jpg",
+        "images/solutions/pg_2014_spr_8.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2015_jes_pola2_p2",
+      "year": 2015,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "UML"
+      ],
+      "problem_num": 11,
+      "image": "images/problems/2015_jes_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "*M1527811205* 5/12 V sivo polje ne pišite. 11. Koliko naslovov IPv4 lahko dodelimo napravam v omrežju z masko 255.255.255.192? A 63 B 62 C 61 D 60 (1 točka) 12. Naštejte DVA proto",
+      "solution_images": [
+        "images/solutions/pg_2015_jes_5.jpg",
+        "images/solutions/pg_2015_jes_6.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2015_jes_pola2_p3",
+      "year": 2015,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2015_jes_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "6/12 *M1527811206* V sivo polje ne pištie. 16. Tabela Pregled je ustvarjena s stavkom Create Table Pregled( ID_Zdravnik Char(4) NOT NULL, EMSO Char(13) NOT NULL, Datum Date NOT NUL",
+      "solution_images": [
+        "images/solutions/pg_2015_jes_5.jpg",
+        "images/solutions/pg_2015_jes_6.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2015_spr_pola2_p1",
+      "year": 2015,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 0,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 9,
+      "image": "images/problems/2015_spr_pola2_p1.png",
+      "solution_image": null,
+      "text_preview": "*M1517811205* 5/12 V sivo polje ne pišite. 8. Kateri prenosni medij je odporen proti radijskim in elektromagnetnim valovom? A Koaksialni kabel. B Parica. C Brezžični medij. D Optični",
+      "solution_images": [
+        "images/solutions/pg_2015_spr_5.jpg",
+        "images/solutions/pg_2015_spr_6.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2015_spr_pola2_p2",
+      "year": 2015,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 13,
+      "image": "images/problems/2015_spr_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "6/12 *M1517811206* V sivo polje ne pištie. 13. Vrsto diagrama, s katerim opišemo funkcionalno obnašanje sistema, imenujemo _______________________________ . Diagram, s katerim opišemo stati",
+      "solution_images": [
+        "images/solutions/pg_2015_spr_6.jpg",
+        "images/solutions/pg_2015_spr_7.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2016_jes_pola2_p2",
+      "year": 2016,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 11,
+      "image": "images/problems/2016_jes_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. *M1627811205* 5/12 11. V omrežju želimo računalniku nastaviti naslednje nastavitve: 10.101.99.160/25 Napišite naslov omrežja, ki mu pripada naš računalnik, in masko v",
+      "solution_images": [
+        "images/solutions/pg_2016_jes_5.jpg",
+        "images/solutions/pg_2016_jes_6.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2016_jes_pola2_p3",
+      "year": 2016,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 14,
+      "image": "images/problems/2016_jes_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. 6/12 *M1627811206* 14. Kateri trditvi najbolje opisujeta pojem podatkovne baze? A Uporabo podatkovne baze omogoča SUPB. B Podatkovna baza je zbirka programov, ki omogočaj",
+      "solution_images": [
+        "images/solutions/pg_2016_jes_5.jpg",
+        "images/solutions/pg_2016_jes_6.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2016_spr_pola2_p2",
+      "year": 2016,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 11,
+      "image": "images/problems/2016_spr_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. *M1617811205* 5/12 11. Katera vrsta povezav v internet ne potrebuje fizičnega kabla? A DSL. B Satelit. C Klicni dostop. D Optična povezava. (1 točka) 12. Izbe",
+      "solution_images": [
+        "images/solutions/pg_2016_spr_4.jpg",
+        "images/solutions/pg_2016_spr_5.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2016_spr_pola2_p3",
+      "year": 2016,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "UML",
+        "IS_baze"
+      ],
+      "problem_num": 15,
+      "image": "images/problems/2016_spr_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. 6/12 *M1617811206* 15. Povežite vsak nivo ANSI/SPARC arhitekture podatkovne baze na levi strani z ustreznimi opisi, ki za povezani nivo veljajo, na desni strani. Vsakemu niv",
+      "solution_images": [
+        "images/solutions/pg_2016_spr_4.jpg",
+        "images/solutions/pg_2016_spr_5.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2017_jes_pola2_p3",
+      "year": 2017,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 14,
+      "image": "images/problems/2017_jes_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. 6/12 *M1727811206* 14. Pri podatkovnih bazah govorimo o trinivojski arhitekturi. Namen je ločiti načine fizičnega shranjevanja podatkov od načinov modeliranja okolja in le-t",
+      "solution_images": [
+        "images/solutions/pg_2017_jes_5.jpg",
+        "images/solutions/pg_2017_jes_6.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2017_jes_pola2_p4",
+      "year": 2017,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 3,
+      "topics": [
+        "UML"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2017_jes_pola2_p4.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. *M1727811207* 7/12 16. Za dostopna določila lastnosti in metod razreda se uporabljajo ključne besede ________________________ , __________________________ in _______",
+      "solution_images": [
+        "images/solutions/pg_2017_jes_5.jpg",
+        "images/solutions/pg_2017_jes_6.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2017_spr_pola2_p2",
+      "year": 2017,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "UML"
+      ],
+      "problem_num": 10,
+      "image": "images/problems/2017_spr_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. *M1717811205* 5/12 10. V podjetju imamo lokalno omrežje s številko IPv4 192.168.120.0 /24. Na usmerjevalniku imamo prvi uporaben naslov IPv4, na strežniku pa drugi upora",
+      "solution_images": [
+        "images/solutions/pg_2017_spr_4.jpg",
+        "images/solutions/pg_2017_spr_5.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2017_spr_pola2_p3",
+      "year": 2017,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "UML",
+        "IS_baze"
+      ],
+      "problem_num": 14,
+      "image": "images/problems/2017_spr_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. 6/12 *M1717811206* 14. Katere so združevalne (agregacijske) funkcije v SQL? A count B avg C abs D extract E upper F min (2 točki) 15. Zapišite stavek SQL, s",
+      "solution_images": [
+        "images/solutions/pg_2017_spr_4.jpg",
+        "images/solutions/pg_2017_spr_5.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2018_jes_pola2_p1",
+      "year": 2018,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 0,
+      "topics": [
+        "UML"
+      ],
+      "problem_num": 9,
+      "image": "images/problems/2018_jes_pola2_p1.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. *M1827811205* 5/12 9. Pri vsaki od naštetih trditev obkrožite, ali je trditev o protokolu http lažna ali resnična. Temelji na načelu zahteva–odziv (request–response).",
+      "solution_images": [
+        "images/solutions/pg_2018_jes_5.jpg",
+        "images/solutions/pg_2018_jes_6.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2018_jes_pola2_p2",
+      "year": 2018,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "UML",
+        "IS_baze"
+      ],
+      "problem_num": 13,
+      "image": "images/problems/2018_jes_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. 6/12 *M1827811206* 13. Kaj pomenijo spodnji pojmi v razrednih diagramih? Asociacija: ___________________________________________________________________________ Generaliza",
+      "solution_images": [
+        "images/solutions/pg_2018_jes_5.jpg",
+        "images/solutions/pg_2018_jes_6.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2018_jes_pola2_p3",
+      "year": 2018,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2018_jes_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. *M1827811207* 7/12 16. Imamo bazo: Applikacije(ID:N, ime:A, kategorija:A, stPrenosov:N, cena:R). Napišite stavek SQL, ki vrne, koliko prenosov ima največkrat prenes",
+      "solution_images": [
+        "images/solutions/pg_2018_jes_6.jpg",
+        "images/solutions/pg_2018_jes_7.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2018_spr_pola2_p2",
+      "year": 2018,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 11,
+      "image": "images/problems/2018_spr_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. *M1817811205* 5/12 11. Koliko bitov je v fizičnem naslovu (Ethernet)? 00-0d-65-ac-50-7f ________________________ (1 točka) 12. Omrežni protokol določa A pravila i",
+      "solution_images": [
+        "images/solutions/pg_2018_spr_6.jpg",
+        "images/solutions/pg_2018_spr_7.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2018_spr_pola2_p4",
+      "year": 2018,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 3,
+      "topics": [
+        "IS_baze",
+        "IS_teorija"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2018_spr_pola2_p4.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. *M1817811207* 7/12 16. Za podatkovno bazo, ki je predstavljena z diagramom ER v prejšnji nalogi, napišite stavek SQL, ki v tabelo Disciplina doda zapis, pri katerem je v",
+      "solution_images": [
+        "images/solutions/pg_2018_spr_6.jpg",
+        "images/solutions/pg_2018_spr_7.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2019_jes_pola2_p3",
+      "year": 2019,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze",
+        "IS_teorija"
+      ],
+      "problem_num": 12,
+      "image": "images/problems/2019_jes_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. 6/12 *M1927811206* 12. Pred vsako trditvijo obkrožite R, če je trditev resnična, in N, če je trditev neresnična. Transakcijski informacijski sistem ima lahko daljši odzivni",
+      "solution_images": [
+        "images/solutions/pg_2019_jes_5.jpg",
+        "images/solutions/pg_2019_jes_6.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2019_jes_pola2_p4",
+      "year": 2019,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 3,
+      "topics": [
+        "UML"
+      ],
+      "problem_num": 15,
+      "image": "images/problems/2019_jes_pola2_p4.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. *M1927811207* 7/12 15. V razrednem diagramu (class diagram) je treba povezati razreda Natakar in Naročilo. Vsako naročilo sprejme natanko en natakar, en natakar lahko sp",
+      "solution_images": [
+        "images/solutions/pg_2019_jes_5.jpg",
+        "images/solutions/pg_2019_jes_6.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2019_jes_pola2_p5",
+      "year": 2019,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 4,
+      "topics": [
+        "UML",
+        "IS_baze"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2019_jes_pola2_p5.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. 8/12 *M1927811208* 16. Za spodnji razredni diagram odgovorite na zastavljena tri vprašanja. Kateri simbol pred atributi označuje zasebne (angl. private) atribute? ____",
+      "solution_images": [
+        "images/solutions/pg_2019_jes_5.jpg",
+        "images/solutions/pg_2019_jes_6.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2019_spr_pola2_p2",
+      "year": 2019,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "UML",
+        "IS_baze",
+        "IS_teorija"
+      ],
+      "problem_num": 12,
+      "image": "images/problems/2019_spr_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. 6/12 *M1917811206* 12. Spletna trgovina ima informacijski sistem, namenjen sledenju naročil in sprotnemu obveščanju strank o prispeli pošiljki. Ta informacijski sistem spada",
+      "solution_images": [
+        "images/solutions/pg_2019_spr_4.jpg",
+        "images/solutions/pg_2019_spr_5.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2019_spr_pola2_p3",
+      "year": 2019,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2019_spr_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. *M1917811207* 7/12 16. Dani sta naslednji tabeli. tabela Aplikacije ID IDAvtorja ime kategorija stPrenosov cena 1000 1 Srečni Joža igra 12675 0,00 1001 2",
+      "solution_images": [
+        "images/solutions/pg_2019_spr_5.jpg",
+        "images/solutions/pg_2019_spr_6.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2020_jes_pola2_p1",
+      "year": 2020,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 0,
+      "topics": [
+        "UML"
+      ],
+      "problem_num": 9,
+      "image": "images/problems/2020_jes_pola2_p1.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. *M2027811205* 5/12 9. Datoteka s končnico .xlsx ima vsebino: V tem primeru lahko rečemo, da A so v preglednici zapisani podatki. B so v preglednici zapisane infor",
+      "solution_images": [
+        "images/solutions/pg_2020_jes_4.jpg",
+        "images/solutions/pg_2020_jes_5.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2020_jes_pola2_p2",
+      "year": 2020,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 12,
+      "image": "images/problems/2020_jes_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. 6/12 *M2027811206* 12. Z diagramom ER je predstavljen model podatkovne baze. Dopolnite stavke tako, da bodo resnični za podani diagram ER. _________________ predstavlja",
+      "solution_images": [
+        "images/solutions/pg_2020_jes_4.jpg",
+        "images/solutions/pg_2020_jes_5.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2020_jes_pola2_p3",
+      "year": 2020,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2020_jes_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. *M2027811207* 7/12 16. Pri podatkovnih bazah govorimo o trinivojski arhitekturi. Namen je ločiti načine fizičnega shranjevanja podatkov od načinov modeliranja okolja in",
+      "solution_images": [
+        "images/solutions/pg_2020_jes_5.jpg",
+        "images/solutions/pg_2020_jes_6.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2020_spr_pola2_p2",
+      "year": 2020,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 11,
+      "image": "images/problems/2020_spr_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "*M2017811205* 5/12 V sivo polje ne pišite. 11. Katera standardna protokola spadata na aplikacijsko plast komunikacijskega modela? A SMTP (Simple Mail Transfer Protocol) B UDP (User Datag",
+      "solution_images": [
+        "images/solutions/pg_2020_spr_5.jpg",
+        "images/solutions/pg_2020_spr_6.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2020_spr_pola2_p3",
+      "year": 2020,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "UML",
+        "IS_baze"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2020_spr_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "6/12 *M2017811206* V sivo polje ne pištie. 16. Tabela Ponudba je ustvarjena s stavkom CREATE TABLE Ponudba(PonudbaID int not null primary key, Vsebina varchar(10) not null, Opis varchar(200),",
+      "solution_images": [
+        "images/solutions/pg_2020_spr_5.jpg",
+        "images/solutions/pg_2020_spr_6.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2021_jes_pola2_p2",
+      "year": 2021,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 10,
+      "image": "images/problems/2021_jes_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. 8/16 *M2127811208",
+      "solution_images": [
+        "images/solutions/pg_2021_jes_5.jpg",
+        "images/solutions/pg_2021_jes_6.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2021_jes_pola2_p3",
+      "year": 2021,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 15,
+      "image": "images/problems/2021_jes_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. *M2127811209* 9",
+      "solution_images": [
+        "images/solutions/pg_2021_jes_6.jpg",
+        "images/solutions/pg_2021_jes_7.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2022_jes_pola2_p2",
+      "year": 2022,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "UML"
+      ],
+      "problem_num": 12,
+      "image": "images/problems/2022_jes_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. 8/16 *M2227811208",
+      "solution_images": [
+        "images/solutions/pg_2022_jes_6.jpg",
+        "images/solutions/pg_2022_jes_7.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2022_jes_pola2_p3",
+      "year": 2022,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "UML",
+        "IS_baze"
+      ],
+      "problem_num": 15,
+      "image": "images/problems/2022_jes_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. *M2227811209* 9",
+      "solution_images": [
+        "images/solutions/pg_2022_jes_7.jpg",
+        "images/solutions/pg_2022_jes_8.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2022_spr_pola2_p3",
+      "year": 2022,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 13,
+      "image": "images/problems/2022_spr_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. *M2217811209* 9",
+      "solution_images": [
+        "images/solutions/pg_2022_spr_6.jpg",
+        "images/solutions/pg_2022_spr_7.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2022_spr_pola2_p4",
+      "year": 2022,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 3,
+      "topics": [
+        "UML",
+        "IS_baze"
+      ],
+      "problem_num": 15,
+      "image": "images/problems/2022_spr_pola2_p4.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. 10/16 *M221781121",
+      "solution_images": [
+        "images/solutions/pg_2022_spr_6.jpg",
+        "images/solutions/pg_2022_spr_7.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2023_jes_pola2_p2",
+      "year": 2023,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "UML",
+        "IS_baze",
+        "IS_teorija"
+      ],
+      "problem_num": 13,
+      "image": "images/problems/2023_jes_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. 8/16 *M2327811208",
+      "solution_images": [],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2023_jes_pola2_p3",
+      "year": 2023,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2023_jes_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. *M2327811209* 9",
+      "solution_images": [],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2023_spr_pola2_p2",
+      "year": 2023,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "UML",
+        "IS_baze"
+      ],
+      "problem_num": 13,
+      "image": "images/problems/2023_spr_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. 8/12 *M2317811208",
+      "solution_images": [
+        "images/solutions/pg_2023_spr_5.jpg",
+        "images/solutions/pg_2023_spr_6.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2024_jes_pola2_p3",
+      "year": 2024,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "UML",
+        "IS_baze"
+      ],
+      "problem_num": 14,
+      "image": "images/problems/2024_jes_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. *M2427811209* 9",
+      "solution_images": [
+        "images/solutions/pg_2024_jes_6.jpg",
+        "images/solutions/pg_2024_jes_7.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2024_spr_pola2_p2",
+      "year": 2024,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "UML",
+        "IS_baze",
+        "IS_teorija"
+      ],
+      "problem_num": 12,
+      "image": "images/problems/2024_spr_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. 8/16 *M2417811208",
+      "solution_images": [
+        "images/solutions/pg_2024_spr_5.jpg",
+        "images/solutions/pg_2024_spr_6.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2024_spr_pola2_p3",
+      "year": 2024,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": 16,
+      "image": "images/problems/2024_spr_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. *M2417811209* 9",
+      "solution_images": [
+        "images/solutions/pg_2024_spr_6.jpg",
+        "images/solutions/pg_2024_spr_7.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2025_jes_pola2_p1",
+      "year": 2025,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 0,
+      "topics": [
+        "IS_baze",
+        "IS_teorija"
+      ],
+      "problem_num": 9,
+      "image": "images/problems/2025_jes_pola2_p1.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. *M2527811207* 7",
+      "solution_images": [
+        "images/solutions/pg_2025_jes_5.jpg",
+        "images/solutions/pg_2025_jes_6.jpg"
+      ],
+      "primary_topic": "IS_baze"
+    },
+    {
+      "id": "2025_jes_pola2_p2",
+      "year": 2025,
+      "rok": "jes",
+      "pola": "pola2",
+      "page_idx": 1,
+      "topics": [
+        "UML",
+        "IS_baze"
+      ],
+      "problem_num": 13,
+      "image": "images/problems/2025_jes_pola2_p2.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. 8/12 *M2527811208",
+      "solution_images": [
+        "images/solutions/pg_2025_jes_5.jpg",
+        "images/solutions/pg_2025_jes_6.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2025_spr_pola2_p3",
+      "year": 2025,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 2,
+      "topics": [
+        "UML",
+        "IS_baze",
+        "IS_teorija"
+      ],
+      "problem_num": 14,
+      "image": "images/problems/2025_spr_pola2_p3.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. 8/16 *M2517811208",
+      "solution_images": [
+        "images/solutions/pg_2025_spr_6.jpg",
+        "images/solutions/pg_2025_spr_7.jpg"
+      ],
+      "primary_topic": "UML"
+    },
+    {
+      "id": "2025_spr_pola2_p4",
+      "year": 2025,
+      "rok": "spr",
+      "pola": "pola2",
+      "page_idx": 3,
+      "topics": [
+        "IS_baze"
+      ],
+      "problem_num": null,
+      "image": "images/problems/2025_spr_pola2_p4.png",
+      "solution_image": null,
+      "text_preview": "V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. V sivo polje ne pišite. 10/16 *M251781121",
+      "solution_images": [],
+      "primary_topic": "IS_baze"
+    }
+  ]
+}
